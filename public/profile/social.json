@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/gulshairbutt"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/segullshairbutt"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:segullshairbutt@gmail.com"
+        }
+    ]
+}

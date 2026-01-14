@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Apr 2022",
+            "cardTitle": "MSc. Global Software Development",
+            "cardSubtitle":"Hochschule Fulda, Germany",
+            "cardDetailedText": "CGPA - 1.7 / 5.0"
+        },
+        {
+            "title": "Sept 2017 - Sept 2021",
+            "cardTitle": "BS, Software Engineering",
+            "cardSubtitle":"University of Gujrat, Pakistan",
+            "cardDetailedText": "CGPA - 3.72 / 4.00"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "experiences": [
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "wirbauen.digital, Germany",
+            "workType": "Full-time",
+            "workDescription": [
+                "Delivered features across Django and React in an **Agile environment**.",
+                "Collaborated with cross-functional teams to build scalable **web applications**."
+            ],
+            "dateText": "08/2023 – Present"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "wirbauen.digital, Germany",
+            "workType": "Working Student",
+            "workDescription": [
+                "Improved stability for hundreds of users by shipping features across the **Django, React stack**.",
+                "Established a 98% test coverage using a full test pyramid involving **Unit, Integration, and E2E tests**."
+            ],
+            "dateText": "05/2022 – 07/2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Tinkering Inc, USA, Remote",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed and maintained full stack web applications.",
+                "Worked with **cross-functional** teams to define, design, and ship new features."
+            ],
+            "dateText": "01/2021 – 02/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Fiverr",
+            "workType": "Freelance",
+            "workDescription": [
+                "Delivered exceptional software solutions to clients, ensuring high satisfaction and repeat business.",
+                "Earned strong reputation and maintained a **5-star ⭐ rating** through consistent quality and timely delivery."
+            ],
+            "dateText": "06/2020 – 01/2021"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Gulzarsoft",
+            "workType": "Internship",
+            "workDescription": [
+                "First ever internship.",
+                "Worked on entire stack of a web application using **Django** and **ReactJS**."
+            ],
+            "dateText": "09/2019 – 12/2019"
+        }
+    ]
+}
